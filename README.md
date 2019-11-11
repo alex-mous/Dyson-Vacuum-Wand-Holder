@@ -1,8 +1,5 @@
 # Dyson Vacuum Wand Holder
-Have you ever found yourself leaning the Wand from a Dyson vacuum cleaner against a wall for lack of a better place to put it? If so, then this is the project for you!
-
-## Introduction
-To resolve this issue, I designed a 3D-printable clamp that easily mounts to a wall with two standard size screws. This repository contains the STL of the final version (V2.1), as well as some pictures on how to install it and the mechanical drawing. I designed this specifically for the Dyson V8 Animal, although it should work for any Dyson-compatible Wand. This work is released under the GNU GPL license.
+To resolve this issue, I designed a 3D-printable clamp/mount that easily mounts to a wall with two standard size screws. This repository contains the STL of the final version (V2.1), as well as some pictures on how to install it and the mechanical drawing. I designed this specifically for the Dyson V8 Animal, although it should work for any Dyson-compatible Wand. This work is released under the GNU GPL license.
 
 ## What you will need
 * A copy of this repository
